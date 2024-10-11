@@ -31,7 +31,7 @@
       </td>
       <td align="center">
         <a href="">
-          <img src="assets/sa.png" alt="이신애 프로필" width=120 height=120 />
+          <img src="assets/sa.jpg" alt="이신애 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
